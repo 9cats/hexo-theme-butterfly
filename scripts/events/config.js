@@ -77,7 +77,7 @@ hexo.extend.filter.register('before_generate', () => {
     flickr_justified_gallery_css: 'https://npm.elemecdn.com/flickr-justified-gallery@2/dist/fjGallery.min.css',
     aplayer_css: 'https://npm.elemecdn.com/aplayer@1/dist/APlayer.min.css',
     aplayer_js: 'https://npm.elemecdn.com/aplayer@1/dist/APlayer.min.js',
-    meting_js: 'https://npm.elemecdn.com/meting@2.0.1/dist/Meting.min.js',
+    meting_js: 'https://npm.elemecdn.com/meting@1.2/dist/Meting.min.js',
     // meting_js: 'https://cdn.jsdelivr.net/gh/metowolf/MetingJS@1.2/dist/Meting.min.js',
     prismjs_js: 'https://npm.elemecdn.com/prismjs@1/prism.min.js',
     prismjs_lineNumber_js: 'https://npm.elemecdn.com/prismjs@1/plugins/line-numbers/prism-line-numbers.min.js',
